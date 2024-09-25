@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "899411688706",
+    "firebase_url": "https://wastewise-d2c82-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "wastewise-d2c82",
+    "storage_bucket": "wastewise-d2c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899411688706:android:6aad6998157212a53d161b",
+        "android_client_info": {
+          "package_name": "com.wastewise.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdJgI2LYQxxWpxeQv3IrlnQd7RqJD4px8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

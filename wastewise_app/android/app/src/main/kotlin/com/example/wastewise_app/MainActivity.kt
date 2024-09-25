@@ -1,4 +1,4 @@
-package com.example.wastewise_app
+package com.wastewise.app
 
 import io.flutter.embedding.android.FlutterActivity
 
